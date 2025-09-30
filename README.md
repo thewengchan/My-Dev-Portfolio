@@ -129,9 +129,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-- **Email**: wengchan99899@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
-- **GitHub**: [Your GitHub Profile](https://github.com)
+- **Email**: [Contact me here](wengchan99899@gmail.com)
+- **LinkedIn**: [Weng Chan](https://www.linkedin.com/in/wengchan-uk/)
+- **GitHub**: [thewengchan](https://github.com/thewengchan)
 - **Website**: [wengchan.dev](https://wengchan.dev)
 
 ---
